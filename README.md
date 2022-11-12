@@ -15,7 +15,6 @@ Navigate to [http://localhost:4200](http://localhost:4200)
 
 ## Test Application
 
-The UI of the Task Tracker :
 ![List tasks](./src/assets/task-tracker.JPG)
 
 ## Further help

@@ -2,25 +2,21 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
-## Development server
+## Available Scripts
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+`npm i json-server` to install json-server 
 
-## Code scaffolding
+`npm run server` to start the mock server.<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Open [http://localhost:3004/tasks](http://localhost:3004/tasks) to get all tasks.
 
-## Build
+`npm start` to start the application in the development mode.<br>
+Navigate to [http://localhost:4200](http://localhost:4200)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Test Application
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+The UI of the Task Tracker :
+![List tasks](./src/assets/task-tracker.JPG)
 
 ## Further help
 
